@@ -49,6 +49,13 @@ h1.test3::before {
   border-right: solid 20px rgb(149, 158, 155);
 }
 
+h1.test4 {
+  position: relative;
+  padding: 0.5em;
+  background: #53bece;
+  color: white;
+}
+
 p.font1{
   font-family: Meiryo;
 }
